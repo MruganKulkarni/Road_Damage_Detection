@@ -27,11 +27,18 @@ Smart Cities:
 
 Long-Term Planning: The model's insights can assist in long-term asset management by predicting the lifespan of road surfaces, aiding in budget allocation and resource planning.
 
-### Project by :
-Abhishek Chaurasia
-Dhrup Chandra Maurya
-Mrugan Kulkarni
-Ayush Singh
+## Project by :
+### Abhishek Chaurasia
+### Dhrup Chandra Maurya
+### Mrugan Kulkarni
+### Ayush Singh
 
 (This Project was developed within a Hackathon conducted by Nit Trichy named TriNIT Hackathon 3.0 from 8th March 2024 to 10th March 2024)
+
+## Contact:
+
+### For questions or support, please contact
+mrugan.kulkarni63@gmail.com / ab1788vg@gmail.com / dm4214@srmist.edu.in
+
+Happy detecting! 🚗🛣️
 
